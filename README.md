@@ -7,8 +7,11 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 ## ✨ Etapas da Entrega
 
 Etapa 1 - Manipulação de variáveis tipo array
+
 Etapa 2 - Implementação de função para adicionar amigos *function adicionarAmigo()*
+
 Etapa 3 - Implementação de função para atualizar a lista de amigos *function atualizarLista()*
+
 Etapa 4 - Implementação de função para sortear o nome do amigo *function sortearAmigo()*
 
 ## 💻 Tecnologias utilizadas ao longo do projeto
